@@ -2,14 +2,10 @@
   "name": "johannschopplich/kirby-vite",
   "description": "Vite integration for the Kirby CMS",
   "type": "kirby-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "kirby",
-    "env",
-    "dotenv",
-    "seo",
-    "meta",
-    "meta-tags"
+    "vite"
   ],
   "license": "MIT",
   "homepage": "https://github.com/johannschopplich/kirby-vite",
