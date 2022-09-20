@@ -1,4 +1,4 @@
-# Kirby Vite
+# ⚠️ Deprecated: Please use the [kirby-helpers](https://github.com/johannschopplich/kirby-helpers) package instead
 
 For an example use-case, take a look at [kirby-vite-unocss-kit](https://github.com/johannschopplich/kirby-vite-unocss-kit).
 
